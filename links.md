@@ -11,7 +11,7 @@ This is the Operating System course site, a GitHub Page, hosted at GitHub.com (t
 ### 2. [Introduction to Linux and Basic Linux Commands for Beginners](https://www.youtube.com/watch?v=IVquJh3DXUA) 
 Video introduction on Linux and Basic Linux Commands spesifically made for beginners to learn.
 
-## WEEK 00
+## WEEK 01
 ### 1. [Computerphile's Explaination on SSH](https://www.youtube.com/watch?v=ORcvSkgdA58)
 An explaination video regarding SSH. We will learn how SSH works, why it's being used, and why we SSH.
 
