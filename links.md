@@ -27,3 +27,13 @@ A 15 minute video to understand RSA and how it relates to prime numbers.
 
 ### 3. [How Hackers Get Around RSA: An RSA Explaination Video by Computerphile](https://www.youtube.com/watch?v=-ShwJqAalOk)
 This video shows how hackers get around RSA, but also gives us an understanding about how RSA really works in a nutshell.
+
+## WEEK 03
+### 1. []()
+Lorem ipsum.
+
+### 2. []()
+Lorem ipsum.
+
+### 3. []()
+Lorem ipsum.
