@@ -29,11 +29,11 @@ A 15 minute video to understand RSA and how it relates to prime numbers.
 This video shows how hackers get around RSA, but also gives us an understanding about how RSA really works in a nutshell.
 
 ## WEEK 03
-### 1. []()
-Lorem ipsum.
+### 1. [Virtual Hard Disks Explained](https://www.youtube.com/watch?v=tTBt7_aACPI)
+A virtual hard disk is essentially the data that would normally be stored on a physical drive stored in a file. When a virtual machine is created, virtual devices are created. For example, virtual devices may be created for the CPU, memory and hard disk.
 
-### 2. []()
-Lorem ipsum.
+### 2. [What's Virtual Memory? - Computerphile](https://www.youtube.com/watch?v=5lFnKYCZT5o)
+Dr Steve Bagley takes us through what virtual memory is and how it works. 
 
-### 3. []()
-Lorem ipsum.
+### 3. [How Computer Memory Works - Computerphile](https://www.youtube.com/watch?v=XETZoRYdtkw)
+How do logic gates store information? - We explore how computer memory works with Dr. Steve "Heartbleed" Bagley
