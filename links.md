@@ -37,3 +37,10 @@ Dr Steve Bagley takes us through what virtual memory is and how it works.
 
 ### 3. [How Computer Memory Works - Computerphile](https://www.youtube.com/watch?v=XETZoRYdtkw)
 How do logic gates store information? - We explore how computer memory works with Dr. Steve "Heartbleed" Bagley
+
+## WEEK 04
+### 1. [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/)
+This article discusses key memory management topics like main memory, why it's needed, logical vs physical address spaces, static and dynamic loading, swapping, and contiguous memory allocation.
+
+### 2. [How to Securely Copy Files in Linux](https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/)
+scp (secure copy) command in Linux system is used to copy file(s) between servers in a secure way. The SCP command or secure copy allows the secure transferring of files between the local host and the remote host or between two remote hosts. It uses the same authentication and security as it is used in the SSH protocol.
