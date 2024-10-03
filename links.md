@@ -44,3 +44,7 @@ This article discusses key memory management topics like main memory, why it's n
 
 ### 2. [How to Securely Copy Files in Linux](https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/)
 scp (secure copy) command in Linux system is used to copy file(s) between servers in a secure way. The SCP command or secure copy allows the secure transferring of files between the local host and the remote host or between two remote hosts. It uses the same authentication and security as it is used in the SSH protocol.
+
+## WEEK 05
+### 1. [Operating System - Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm)
+It explores different aspects of process management in an operating system, offering a thorough understanding of how processes function within the system.
