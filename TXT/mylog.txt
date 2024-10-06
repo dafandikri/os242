@@ -6,7 +6,7 @@ ZCZC W05 200 L99 Class
 ZCZC W05 90 L01 SCELE/Discord related
 ZCZC W05 200 L09 Weekly Assignments
 ZCZC W05 20 L10 Quiz
-ZCZC W05 60 L75 Helping a friend (OS related problem)
+ZCZC W05 90 L75 Helping a friend (OS related problem)
 
 ZCZC W04 200 L99 Class
 ZCZC W04 90 L01 SCELE/Discord related
