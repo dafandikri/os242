@@ -48,3 +48,10 @@ scp (secure copy) command in Linux system is used to copy file(s) between server
 ## WEEK 05
 ### 1. [Operating System - Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm)
 It explores different aspects of process management in an operating system, offering a thorough understanding of how processes function within the system.
+
+## WEEK 06
+### 1. [Operating System - Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm)
+This article discusses the fundamental concepts related to operating system processes. It explains what processes are, their components (stack, heap, text, and data), their life cycle, and also the Process Control Block (PCB).
+
+### 2. [The fork() function in C](https://www.youtube.com/watch?v=cex9XrZCU14)
+This is a great YouTube video that will teach you the basic concept of fork() function in C. Also, if you go to the featured playlist of this video, you can learn more about Unix Processes in C, e.g. wait() function, exec() function, pipes, and more.
