@@ -55,3 +55,10 @@ This article discusses the fundamental concepts related to operating system proc
 
 ### 2. [The fork() function in C](https://www.youtube.com/watch?v=cex9XrZCU14)
 This is a great YouTube video that will teach you the basic concept of fork() function in C. Also, if you go to the featured playlist of this video, you can learn more about Unix Processes in C, e.g. wait() function, exec() function, pipes, and more.
+
+## WEEK 07
+### 1. [Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+Process Synchronization is the coordination of execution of multiple processes in a multi-process system to ensure that they access shared resources in a controlled and predictable manner.
+
+### 2. [Deadlock in OS](https://en.wikipedia.org/wiki/Deadlock_(computer_science)#:~:text=In%20an%20operating%20system%2C%20a,held%20by%20another%20waiting%20process.)
+deadlock is any situation in which no member of some group of entities can proceed because each waits for another member, including itself, to take action, such as sending a message or, more commonly, releasing a lock.
