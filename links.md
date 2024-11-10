@@ -62,3 +62,7 @@ Process Synchronization is the coordination of execution of multiple processes i
 
 ### 2. [Deadlock in OS](https://en.wikipedia.org/wiki/Deadlock_(computer_science)#:~:text=In%20an%20operating%20system%2C%20a,held%20by%20another%20waiting%20process.)
 deadlock is any situation in which no member of some group of entities can proceed because each waits for another member, including itself, to take action, such as sending a message or, more commonly, releasing a lock.
+
+## WEEK 08
+### 1. [Linux From Scratch for UTM](https://lfs.vlsm.org/arm64/index.html)
+Linux From Scratch 12.0 is a book that teaches you how to build your own Linux distribution from scratch. It guides you through the process of compiling and installing the essential components of a Linux system, such as the kernel, the GNU toolchain, and the basic utilities. By following the book, you will learn not only how Linux works, but also how to customize it to your own needs and preferences.
